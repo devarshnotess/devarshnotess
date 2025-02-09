@@ -1,3 +1,5 @@
+# This code simulates and visualizes tge evolution of wave packet in one dimension using the Cranck-Nicolson method
+
 import numpy as np
 import plotly.graph_objects as go
 import ipywidgets as widgets
