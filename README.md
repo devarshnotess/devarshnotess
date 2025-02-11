@@ -26,5 +26,5 @@ To run this simulation on your local machine, follow these steps:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/quantum-wavefunction-simulation.git
+git clone https://github.com/devarshnotess/quantum-wavefunction-simulation.git
 cd quantum-wavefunction-simulation
