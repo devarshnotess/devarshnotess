@@ -8,6 +8,10 @@ The goal of this project is to simulate the time evolution of a quantum wave pac
 
 This simulation gives insights into the **quantum mechanical wavefunction** and its probability distribution |\psi(x,t)|^2, which describes the likelihood of a particle's position at any given time.
 
-QMS1 includes 
+QMS1 includes code simulates and visualizes the evolution of wave packet in one dimension using the Cranck-Nicolson method
+
 QMS2 includes #quantum particle in infinite potential well
 
+GFC includes Gravitational force calculator 
+
+All the above projects are still not properly ready but you can see the code 
