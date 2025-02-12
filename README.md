@@ -10,7 +10,7 @@ This simulation gives insights into the **quantum mechanical wavefunction** and 
 
 QMS1 includes code simulates and visualizes the evolution of wave packet in one dimension using the Cranck-Nicolson method
 
-QMS2 includes #quantum particle in infinite potential well
+QMS2 includes quantum particle in infinite potential well
 
 GFC includes Gravitational force calculator 
 
