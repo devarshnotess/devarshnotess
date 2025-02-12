@@ -8,3 +8,6 @@ The goal of this project is to simulate the time evolution of a quantum wave pac
 
 This simulation gives insights into the **quantum mechanical wavefunction** and its probability distribution |\psi(x,t)|^2, which describes the likelihood of a particle's position at any given time.
 
+QMS1 includes 
+QMS2 includes #quantum particle in infinite potential well
+
